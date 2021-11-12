@@ -551,7 +551,7 @@ align-items: center ;
          .main{
     
             width: 500%;
-            height: 2900px;
+            height: 3000px;
             border: 1px solid rgba(128, 128, 128, 0.63);
             border-radius: 10px;
             margin: 20px;
@@ -640,11 +640,12 @@ align-items: center ;
         }
         .resume{
             width: 350%;
-             height: 2600px;
+             height: 2800px;
+             margin-top: 150px;
         }
         .resume1{
             position:relative;
-          margin-top: 1000px;
+          margin-top: 1200px;
           font-size:270%;
           width: 90%;
         }
@@ -664,6 +665,7 @@ align-items: center ;
             border-radius: 10px;
             box-shadow: 2px 2px 2px rgba(128, 128, 128, 0.507);
             position: relative;
+        
             margin-left: 60%;
             background-color:white;
         bottom:1700px;
